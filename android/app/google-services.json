@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "389370770087",
+    "firebase_url": "https://flash-chat-65b42.firebaseio.com",
+    "project_id": "flash-chat-65b42",
+    "storage_bucket": "flash-chat-65b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389370770087:android:7a6c0c98e31fe48bb86182",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389370770087-505mb9v86okdjmo2hvbu3or5srfqkpjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcGqa3MR-VY4_UR8bbE_z6XrwNZj1fvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389370770087-505mb9v86okdjmo2hvbu3or5srfqkpjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389370770087:android:f34a401d94fc54c9b86182",
+        "android_client_info": {
+          "package_name": "com.ahraar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389370770087-505mb9v86okdjmo2hvbu3or5srfqkpjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcGqa3MR-VY4_UR8bbE_z6XrwNZj1fvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389370770087-505mb9v86okdjmo2hvbu3or5srfqkpjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
