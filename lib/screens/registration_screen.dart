@@ -28,7 +28,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               ),
             ),
             SizedBox(
-              height: 48.0,
+              height: 10.0,
             ),
             TextField(
               onChanged: (value) {
@@ -38,7 +38,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   kTextFieldDecoration.copyWith(hintText: 'Enter your email'),
             ),
             SizedBox(
-              height: 8.0,
+              height: 5.0,
             ),
             TextField(
               onChanged: (value) {
@@ -48,7 +48,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   hintText: 'Enter your password'),
             ),
             SizedBox(
-              height: 24.0,
+              height: 20.0,
             ),
             RoundedButtton(
               title: 'Register',
