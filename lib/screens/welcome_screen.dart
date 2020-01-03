@@ -54,7 +54,6 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 ),
                 ColorizeAnimatedTextKit(
                   text: ['Flash Chat'],
-                  isRepeatingAnimation: true,
                   textStyle: TextStyle(
                     fontSize: 30.0,
                     fontWeight: FontWeight.w900,
@@ -86,11 +85,6 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 Navigator.pushNamed(context, RegistrationScreen.id);
               },
             ),
-            Column(
-              children: <Widget>[
-                Text('by PRASHANT'),
-              ],
-            )
           ],
         ),
       ),
